@@ -1,7 +1,9 @@
 Rails.application.routes.draw do
+  resources :contacts, only: [:new, :create]
   root to: 'visitors#new'
 end
-  # The priority is based upon order of creation: first created -> highest priority.
+
+# The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
