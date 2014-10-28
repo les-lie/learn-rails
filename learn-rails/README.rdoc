@@ -1,28 +1,8 @@
-== README
+The pre-eminent tutorial on rails, presented here for your perusal.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Something went left after midnight and I lost Rails in the middle of the tutorial and had to reinstall. Of course, this doesn't bode well for a beautiful and functional Rails app.
 
-Things you may want to cover:
+I will be doing it again on Saturday November 1, 2014.
 
-* Ruby version
+Be on the lookout for learn_rails, the remix.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
